@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 
 //import './App.css';
 import classes from './App.module.css';
-import Person from './Person/Person';
+import Person from '../components/Persons/Person/Person';
 // import ErrorBoundary from './ErrorBoundary/ErrorBoundary';
 
 // const StyledButton = styled.button`

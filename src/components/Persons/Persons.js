@@ -19,7 +19,7 @@ class Persons extends Component {
     } else {
       return false;
     }
-    return true;
+    // return true;
   }
 
   getSnapshotBeforeUpdate(prevProps, prevState) {
